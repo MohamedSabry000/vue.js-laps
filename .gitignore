@@ -1,0 +1,23 @@
+Task 1/shopping-cart/.DS_Store
+Task 1/shopping-cart/node_modules
+Task 1/shopping-cart/dist
+
+
+# local env files
+Task 1/shopping-cart/.env.local
+Task 1/shopping-cart/.env.*.local
+
+# Log files
+Task 1/shopping-cart/npm-debug.log*
+Task 1/shopping-cart/yarn-debug.log*
+Task 1/shopping-cart/yarn-error.log*
+Task 1/shopping-cart/pnpm-debug.log*
+
+# Editor directories and files
+Task 1/shopping-cart/.idea
+Task 1/shopping-cart/.vscode
+Task 1/shopping-cart/*.suo
+Task 1/shopping-cart/*.ntvs*
+Task 1/shopping-cart/*.njsproj
+Task 1/shopping-cart/*.sln
+Task 1/shopping-cart/*.sw?
