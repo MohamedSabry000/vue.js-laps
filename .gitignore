@@ -1,23 +1,23 @@
-Task 1/shopping-cart/.DS_Store
-Task 1/shopping-cart/node_modules
-Task 1/shopping-cart/dist
+Day-0*/Task */.DS_Store
+Day-0*/Task */node_modules
+Day-0*/Task */dist
 
 
 # local env files
-Task 1/shopping-cart/.env.local
-Task 1/shopping-cart/.env.*.local
+Day-0*/Task */.env.local
+Day-0*/Task */.env.*.local
 
 # Log files
-Task 1/shopping-cart/npm-debug.log*
-Task 1/shopping-cart/yarn-debug.log*
-Task 1/shopping-cart/yarn-error.log*
-Task 1/shopping-cart/pnpm-debug.log*
+Day-0*/Task */npm-debug.log*
+Day-0*/Task */yarn-debug.log*
+Day-0*/Task */yarn-error.log*
+Day-0*/Task */pnpm-debug.log*
 
 # Editor directories and files
-Task 1/shopping-cart/.idea
-Task 1/shopping-cart/.vscode
-Task 1/shopping-cart/*.suo
-Task 1/shopping-cart/*.ntvs*
-Task 1/shopping-cart/*.njsproj
-Task 1/shopping-cart/*.sln
-Task 1/shopping-cart/*.sw?
+Day-0*/Task */.idea
+Day-0*/Task */.vscode
+Day-0*/Task */*.suo
+Day-0*/Task */*.ntvs*
+Day-0*/Task */*.njsproj
+Day-0*/Task */*.sln
+Day-0*/Task */*.sw?
